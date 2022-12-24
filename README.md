@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tolga</h1>
-<h3 align="center">A passionate Senior Operation Specialist from Vodafone Turkey</h3>
+<h3 align="center">A passionate Computer Engineer from Istanbul,Turkey</h3>
+
+- 🔭 I’m working on as a **Senior Operation Specialist at Vodafone Turkey**
 
 - 🌱 I’m currently learning **Spring Boot framework.**
 
